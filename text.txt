@@ -1,0 +1,217 @@
+----------------------------------------------------------------------------------------------------------
+Contents
+----------------------------------------------------------------------------------------------------------
+
+    1. Text from SEO editor (eventually edited by the user, maximum line-length 125 for better readability)
+    2. Text from SEO editor (eventually edited by the user, full line-length, for easy copy&paste)
+    3. AI-Generated text, with source annotations
+    4. AI-Generated text, without source annotations
+
+
+
+----------------------------------------------------------------------------------------------------------
+Version #1 - Current version from SEO Editor, less line-width
+----------------------------------------------------------------------------------------------------------
+
+# Ai
+It usually refers to the various tools and technology techniques which utilize computing for performing tasks like
+prediction, decision, or recommendation. Artificial intelligence is the modeling of human intelligence processed by machines,
+particularly computer systems. The field was founded on the premise that human intelligence could be described with such
+precision that machines could be made to emulate it.
+The general goal of AI research is to build technologies which enable computers and machines to operate in intelligent ways.
+Artificial intelligence (AI) is often applied to projects to design systems endowed with human-like mental processes, such as
+the ability to reason, discover meaning, generalize, or learn from past experiences. Artificial intelligence (AI) is the
+intelligence demonstrated by machines, as opposed to natural intelligence demonstrated by humans and animals, which involves
+consciousness and emotion.
+Artificial intelligence (AI) is the capability of computers, or of robots controlled by computers, to perform tasks normally
+performed by humans, as these tasks require human-like intelligence and discernment. Artificial Intelligence (AI) is the
+branch of computing dedicated to addressing the cognitive problems typically associated with human intelligence, such as
+learning, problem-solving, and pattern recognition. Strong AI, also known as artificial general intelligence (AGI), describes
+programming capable of replicating human brain cognitive abilities.
+A common training model type in AI is an artificial neural network, a model based loosely on the human brain. A neural
+network is a system of artificial neurons--sometimes called perceptrons--that are processing nodes used for categorizing and
+analyzing data.
+Feed-forward neural networks (FF) are one of the oldest forms of neural networks, where data flows in a single direction,
+across layers of artificial neurons, until an output is reached.
+Artificial neural networks and deep learning artificial intelligence technologies are rapidly evolving, in large part because
+AI processes vast amounts of data far faster and makes predictions far more accurate than humans can. Automated systems are
+already producing tremendous benefits, from technologies that help farmers produce more food efficiently, to computers that
+forecast the paths of storms, to algorithms that identify diseases in patients.
+Among the greatest challenges facing democracy today are the uses of technology, data, and automated systems in ways that
+threaten the rights of the American public. While many of the concerns addressed in this framework stem from the use of
+artificial intelligence, the technical capabilities and concrete definitions of these systems shift as innovations
+accelerate, and potential harms of their use also arise from less technologically sophisticated tools.
+There is no single, universally accepted, descriptor of artificial intelligence, because AI has a broad array of ways to
+support, augment, and automate human activities, and to learn and operate autonomously (see What is Machine Learning?). While
+these definitions might sound abstract to the average person, they do help to focus artificial intelligence as a field in
+computing science, and they offer a template for integrating machines and programs with machine learning and other subsets of
+artificial intelligence. Cognitive Computing vs. Artificial Intelligence The terms artificial intelligence and cognitive
+computing are sometimes used interchangeably, but generally, the term AI is used in reference to machines that substitute for
+human intelligence, mimicking how we perceive, learn, process, and respond to information in our environment.
+Most people will first encounter this term in sci-fi, where for more than 100 years, we have been entertained with stories
+featuring sentient robots -- sometimes friendly, sometimes less friendly. For generations, we have told ourselves stories,
+using themes of magic and science, of lifeless things that we bring to life, or that are given powers that exceed the
+capabilities of humans.
+We are still not living in a sci-fi world, for instance, in which computers are usually capable of making reliable
+predictions about human behaviour. Whether or not it is possible for AI to achieve general intelligence; if machines could
+solve every problem a human can solve using intelligence, or if there are strict limits on what machines could achieve.
+Whether smart machines are dangerous; how humans can make sure machines act ethically, and are used ethically.
+The argument from the artificial brain An argument claiming that brains can be simulated by machines, and since brains
+display intelligence, those simulated brains should display intelligence as well--ergo, machines could be intelligent.
+Machines These simulated brains
+Ethical uses of AI While AI tools provide an array of new functionalities to businesses, using AI also raises ethical issues,
+since, for better or worse, the AI system would be reinforcing what it has already learned.
+Many think technologies like quantum computing may have a major role to play in making true AI a reality, and that we should
+reserve use of the term AI for that type of shared intelligence. Far from being just the latest viral sensation, Artificial
+Intelligence (AI) has really emerged as a technology that can be used by any company or person to revolutionize how they do
+their job or perform any number of everyday tasks. Now, the latest crop of AI applications gives us a chance to leverage
+machine learning for almost every task we can think of.
+Predicting the alfalfa biomass and yields from crops used as livestock feed is essential in everyday life of almost all, and
+a lot of features from data in this field, combined with relevant weather data, can be used to train Machine Learning models
+to make predictions of yields. These disciplines are composed of artificial intelligence algorithms that attempt to build
+expert systems that make predictions or classifications from the input data. In general, Machine Learning (ML) is divided
+into supervised and unsupervised learning techniques, with supervised using trained data which includes desired outputs, and
+unsupervised using trained data which does not have desired outputs.
+Rather than simulating all aspects of natural intelligence, like robots in movies, this term refers merely to software
+algorithms being able to learn -- becoming more adept at performing one particular task the more data it is exposed to.
+Psychologists generally do not characterize human intelligence as a single trait, but rather by a combination of a number of
+different abilities.
+
+
+
+----------------------------------------------------------------------------------------------------------
+Version #2 - Current version from SEO Editor, for copy&paste
+----------------------------------------------------------------------------------------------------------
+
+# Ai
+It usually refers to the various tools and technology techniques which utilize computing for performing tasks like prediction, decision, or recommendation. Artificial intelligence is the modeling of human intelligence processed by machines, particularly computer systems. The field was founded on the premise that human intelligence could be described with such precision that machines could be made to emulate it.
+The general goal of AI research is to build technologies which enable computers and machines to operate in intelligent ways. Artificial intelligence (AI) is often applied to projects to design systems endowed with human-like mental processes, such as the ability to reason, discover meaning, generalize, or learn from past experiences. Artificial intelligence (AI) is the intelligence demonstrated by machines, as opposed to natural intelligence demonstrated by humans and animals, which involves consciousness and emotion.
+Artificial intelligence (AI) is the capability of computers, or of robots controlled by computers, to perform tasks normally performed by humans, as these tasks require human-like intelligence and discernment. Artificial Intelligence (AI) is the branch of computing dedicated to addressing the cognitive problems typically associated with human intelligence, such as learning, problem-solving, and pattern recognition. Strong AI, also known as artificial general intelligence (AGI), describes programming capable of replicating human brain cognitive abilities.
+A common training model type in AI is an artificial neural network, a model based loosely on the human brain. A neural network is a system of artificial neurons--sometimes called perceptrons--that are processing nodes used for categorizing and analyzing data.
+Feed-forward neural networks (FF) are one of the oldest forms of neural networks, where data flows in a single direction, across layers of artificial neurons, until an output is reached.
+Artificial neural networks and deep learning artificial intelligence technologies are rapidly evolving, in large part because AI processes vast amounts of data far faster and makes predictions far more accurate than humans can. Automated systems are already producing tremendous benefits, from technologies that help farmers produce more food efficiently, to computers that forecast the paths of storms, to algorithms that identify diseases in patients.
+Among the greatest challenges facing democracy today are the uses of technology, data, and automated systems in ways that threaten the rights of the American public. While many of the concerns addressed in this framework stem from the use of artificial intelligence, the technical capabilities and concrete definitions of these systems shift as innovations accelerate, and potential harms of their use also arise from less technologically sophisticated tools.
+There is no single, universally accepted, descriptor of artificial intelligence, because AI has a broad array of ways to support, augment, and automate human activities, and to learn and operate autonomously (see What is Machine Learning?). While these definitions might sound abstract to the average person, they do help to focus artificial intelligence as a field in computing science, and they offer a template for integrating machines and programs with machine learning and other subsets of artificial intelligence. Cognitive Computing vs. Artificial Intelligence The terms artificial intelligence and cognitive computing are sometimes used interchangeably, but generally, the term AI is used in reference to machines that substitute for human intelligence, mimicking how we perceive, learn, process, and respond to information in our environment.
+Most people will first encounter this term in sci-fi, where for more than 100 years, we have been entertained with stories featuring sentient robots -- sometimes friendly, sometimes less friendly. For generations, we have told ourselves stories, using themes of magic and science, of lifeless things that we bring to life, or that are given powers that exceed the capabilities of humans.
+We are still not living in a sci-fi world, for instance, in which computers are usually capable of making reliable predictions about human behaviour. Whether or not it is possible for AI to achieve general intelligence; if machines could solve every problem a human can solve using intelligence, or if there are strict limits on what machines could achieve. Whether smart machines are dangerous; how humans can make sure machines act ethically, and are used ethically.
+The argument from the artificial brain An argument claiming that brains can be simulated by machines, and since brains display intelligence, those simulated brains should display intelligence as well--ergo, machines could be intelligent. Machines These simulated brains
+Ethical uses of AI While AI tools provide an array of new functionalities to businesses, using AI also raises ethical issues, since, for better or worse, the AI system would be reinforcing what it has already learned.
+Many think technologies like quantum computing may have a major role to play in making true AI a reality, and that we should reserve use of the term AI for that type of shared intelligence. Far from being just the latest viral sensation, Artificial Intelligence (AI) has really emerged as a technology that can be used by any company or person to revolutionize how they do their job or perform any number of everyday tasks. Now, the latest crop of AI applications gives us a chance to leverage machine learning for almost every task we can think of.
+Predicting the alfalfa biomass and yields from crops used as livestock feed is essential in everyday life of almost all, and a lot of features from data in this field, combined with relevant weather data, can be used to train Machine Learning models to make predictions of yields. These disciplines are composed of artificial intelligence algorithms that attempt to build expert systems that make predictions or classifications from the input data. In general, Machine Learning (ML) is divided into supervised and unsupervised learning techniques, with supervised using trained data which includes desired outputs, and unsupervised using trained data which does not have desired outputs.
+Rather than simulating all aspects of natural intelligence, like robots in movies, this term refers merely to software algorithms being able to learn -- becoming more adept at performing one particular task the more data it is exposed to. Psychologists generally do not characterize human intelligence as a single trait, but rather by a combination of a number of different abilities.
+
+
+
+----------------------------------------------------------------------------------------------------------
+Version #3 - AI-Generated text, with source annotations
+----------------------------------------------------------------------------------------------------------
+
+Ai
+
+    
+It usually refers to the various tools and technology techniques which utilize computing for performing tasks like prediction, decision, or recommendation. Artificial intelligence is the modeling of human intelligence processed by machines, particularly computer systems. The field was founded on the premise that human intelligence could be described with such precision that machines could be made to emulate it. [Sources: 0, 6, 7] 
+    
+The general goal of AI research is to build technologies which enable computers and machines to operate in intelligent ways. Artificial intelligence (AI) is often applied to projects to design systems endowed with human-like mental processes, such as the ability to reason, discover meaning, generalize, or learn from past experiences. Artificial intelligence (AI) is the intelligence demonstrated by machines, as opposed to natural intelligence demonstrated by humans and animals, which involves consciousness and emotion. [Sources: 7, 8] 
+    
+Artificial intelligence (AI) is the capability of computers, or of robots controlled by computers, to perform tasks normally performed by humans, as these tasks require human-like intelligence and discernment. Artificial Intelligence (AI) is the branch of computing dedicated to addressing the cognitive problems typically associated with human intelligence, such as learning, problem-solving, and pattern recognition. Strong AI, also known as artificial general intelligence (AGI), describes programming capable of replicating human brain cognitive abilities. [Sources: 6, 8, 9] 
+    
+A common training model type in AI is an artificial neural network, a model based loosely on the human brain. A neural network is a system of artificial neurons--sometimes called perceptrons--that are processing nodes used for categorizing and analyzing data. [Sources: 5] 
+    
+Feed-forward neural networks (FF) are one of the oldest forms of neural networks, where data flows in a single direction, across layers of artificial neurons, until an output is reached. [Sources: 5] 
+    
+Artificial neural networks and deep learning artificial intelligence technologies are rapidly evolving, in large part because AI processes vast amounts of data far faster and makes predictions far more accurate than humans can. Automated systems are already producing tremendous benefits, from technologies that help farmers produce more food efficiently, to computers that forecast the paths of storms, to algorithms that identify diseases in patients. [Sources: 6, 10] 
+    
+Among the greatest challenges facing democracy today are the uses of technology, data, and automated systems in ways that threaten the rights of the American public. While many of the concerns addressed in this framework stem from the use of artificial intelligence, the technical capabilities and concrete definitions of these systems shift as innovations accelerate, and potential harms of their use also arise from less technologically sophisticated tools. [Sources: 10] 
+    
+There is no single, universally accepted, descriptor of artificial intelligence, because AI has a broad array of ways to support, augment, and automate human activities, and to learn and operate autonomously (see What is Machine Learning?). While these definitions might sound abstract to the average person, they do help to focus artificial intelligence as a field in computing science, and they offer a template for integrating machines and programs with machine learning and other subsets of artificial intelligence. Cognitive Computing vs. Artificial Intelligence The terms artificial intelligence and cognitive computing are sometimes used interchangeably, but generally, the term AI is used in reference to machines that substitute for human intelligence, mimicking how we perceive, learn, process, and respond to information in our environment. [Sources: 4, 6, 11] 
+    
+Most people will first encounter this term in sci-fi, where for more than 100 years, we have been entertained with stories featuring sentient robots -- sometimes friendly, sometimes less friendly. For generations, we have told ourselves stories, using themes of magic and science, of lifeless things that we bring to life, or that are given powers that exceed the capabilities of humans. [Sources: 0, 1] 
+    
+We are still not living in a sci-fi world, for instance, in which computers are usually capable of making reliable predictions about human behaviour. Whether or not it is possible for AI to achieve general intelligence; if machines could solve every problem a human can solve using intelligence, or if there are strict limits on what machines could achieve. Whether smart machines are dangerous; how humans can make sure machines act ethically, and are used ethically. [Sources: 0, 7] 
+    
+The argument from the artificial brain An argument claiming that brains can be simulated by machines, and since brains display intelligence, those simulated brains should display intelligence as well--ergo, machines could be intelligent. Machines These simulated brains [Sources: 7] 
+    
+Ethical uses of AI While AI tools provide an array of new functionalities to businesses, using AI also raises ethical issues, since, for better or worse, the AI system would be reinforcing what it has already learned. [Sources: 6] 
+    
+Many think technologies like quantum computing may have a major role to play in making true AI a reality, and that we should reserve use of the term AI for that type of shared intelligence. Far from being just the latest viral sensation, Artificial Intelligence (AI) has really emerged as a technology that can be used by any company or person to revolutionize how they do their job or perform any number of everyday tasks. Now, the latest crop of AI applications gives us a chance to leverage machine learning for almost every task we can think of. [Sources: 1, 6] 
+    
+Predicting the alfalfa biomass and yields from crops used as livestock feed is essential in everyday life of almost all, and a lot of features from data in this field, combined with relevant weather data, can be used to train Machine Learning models to make predictions of yields. These disciplines are composed of artificial intelligence algorithms that attempt to build expert systems that make predictions or classifications from the input data. In general, Machine Learning (ML) is divided into supervised and unsupervised learning techniques, with supervised using trained data which includes desired outputs, and unsupervised using trained data which does not have desired outputs. [Sources: 2, 3, 9] 
+    
+Rather than simulating all aspects of natural intelligence, like robots in movies, this term refers merely to software algorithms being able to learn -- becoming more adept at performing one particular task the more data it is exposed to. Psychologists generally do not characterize human intelligence as a single trait, but rather by a combination of a number of different abilities. [Sources: 1, 8] 
+    
+
+
+
+    
+
+        
+    
+
+
+##### Sources #####
+    
+[0]: https://www.ftc.gov/business-guidance/blog/2023/02/keep-your-ai-claims-check
+    
+[1]: https://www.forbes.com/sites/bernardmarr/2023/02/28/beyond-chatgpt-14-mind-blowing-ai-tools-everyone-should-be-trying-out-now/
+    
+[2]: https://www.mdpi.com/journal/ai
+    
+[3]: https://www.ibm.com/topics/artificial-intelligence
+    
+[4]: https://www.gartner.com/en/topics/artificial-intelligence
+    
+[5]: https://cloud.google.com/learn/what-is-artificial-intelligence
+    
+[6]: https://www.techtarget.com/searchenterpriseai/definition/AI-Artificial-Intelligence
+    
+[7]: https://en.wikipedia.org/wiki/Artificial_intelligence
+    
+[8]: https://www.britannica.com/technology/artificial-intelligence
+    
+[9]: https://aws.amazon.com/machine-learning/what-is-ai/
+    
+[10]: https://www.whitehouse.gov/ostp/ai-bill-of-rights/
+    
+[11]: https://builtin.com/artificial-intelligence
+    
+
+
+
+
+----------------------------------------------------------------------------------------------------------
+Version #4 - AI-Generated text, without source annotations
+----------------------------------------------------------------------------------------------------------
+
+Ai
+
+    
+It usually refers to the various tools and technology techniques which utilize computing for performing tasks like prediction, decision, or recommendation. Artificial intelligence is the modeling of human intelligence processed by machines, particularly computer systems. The field was founded on the premise that human intelligence could be described with such precision that machines could be made to emulate it.
+    
+The general goal of AI research is to build technologies which enable computers and machines to operate in intelligent ways. Artificial intelligence (AI) is often applied to projects to design systems endowed with human-like mental processes, such as the ability to reason, discover meaning, generalize, or learn from past experiences. Artificial intelligence (AI) is the intelligence demonstrated by machines, as opposed to natural intelligence demonstrated by humans and animals, which involves consciousness and emotion.
+    
+Artificial intelligence (AI) is the capability of computers, or of robots controlled by computers, to perform tasks normally performed by humans, as these tasks require human-like intelligence and discernment. Artificial Intelligence (AI) is the branch of computing dedicated to addressing the cognitive problems typically associated with human intelligence, such as learning, problem-solving, and pattern recognition. Strong AI, also known as artificial general intelligence (AGI), describes programming capable of replicating human brain cognitive abilities.
+    
+A common training model type in AI is an artificial neural network, a model based loosely on the human brain. A neural network is a system of artificial neurons--sometimes called perceptrons--that are processing nodes used for categorizing and analyzing data.
+    
+Feed-forward neural networks (FF) are one of the oldest forms of neural networks, where data flows in a single direction, across layers of artificial neurons, until an output is reached.
+    
+Artificial neural networks and deep learning artificial intelligence technologies are rapidly evolving, in large part because AI processes vast amounts of data far faster and makes predictions far more accurate than humans can. Automated systems are already producing tremendous benefits, from technologies that help farmers produce more food efficiently, to computers that forecast the paths of storms, to algorithms that identify diseases in patients.
+    
+Among the greatest challenges facing democracy today are the uses of technology, data, and automated systems in ways that threaten the rights of the American public. While many of the concerns addressed in this framework stem from the use of artificial intelligence, the technical capabilities and concrete definitions of these systems shift as innovations accelerate, and potential harms of their use also arise from less technologically sophisticated tools.
+    
+There is no single, universally accepted, descriptor of artificial intelligence, because AI has a broad array of ways to support, augment, and automate human activities, and to learn and operate autonomously (see What is Machine Learning?). While these definitions might sound abstract to the average person, they do help to focus artificial intelligence as a field in computing science, and they offer a template for integrating machines and programs with machine learning and other subsets of artificial intelligence. Cognitive Computing vs. Artificial Intelligence The terms artificial intelligence and cognitive computing are sometimes used interchangeably, but generally, the term AI is used in reference to machines that substitute for human intelligence, mimicking how we perceive, learn, process, and respond to information in our environment.
+    
+Most people will first encounter this term in sci-fi, where for more than 100 years, we have been entertained with stories featuring sentient robots -- sometimes friendly, sometimes less friendly. For generations, we have told ourselves stories, using themes of magic and science, of lifeless things that we bring to life, or that are given powers that exceed the capabilities of humans.
+    
+We are still not living in a sci-fi world, for instance, in which computers are usually capable of making reliable predictions about human behaviour. Whether or not it is possible for AI to achieve general intelligence; if machines could solve every problem a human can solve using intelligence, or if there are strict limits on what machines could achieve. Whether smart machines are dangerous; how humans can make sure machines act ethically, and are used ethically.
+    
+The argument from the artificial brain An argument claiming that brains can be simulated by machines, and since brains display intelligence, those simulated brains should display intelligence as well--ergo, machines could be intelligent. Machines These simulated brains
+    
+Ethical uses of AI While AI tools provide an array of new functionalities to businesses, using AI also raises ethical issues, since, for better or worse, the AI system would be reinforcing what it has already learned.
+    
+Many think technologies like quantum computing may have a major role to play in making true AI a reality, and that we should reserve use of the term AI for that type of shared intelligence. Far from being just the latest viral sensation, Artificial Intelligence (AI) has really emerged as a technology that can be used by any company or person to revolutionize how they do their job or perform any number of everyday tasks. Now, the latest crop of AI applications gives us a chance to leverage machine learning for almost every task we can think of.
+    
+Predicting the alfalfa biomass and yields from crops used as livestock feed is essential in everyday life of almost all, and a lot of features from data in this field, combined with relevant weather data, can be used to train Machine Learning models to make predictions of yields. These disciplines are composed of artificial intelligence algorithms that attempt to build expert systems that make predictions or classifications from the input data. In general, Machine Learning (ML) is divided into supervised and unsupervised learning techniques, with supervised using trained data which includes desired outputs, and unsupervised using trained data which does not have desired outputs.
+    
+Rather than simulating all aspects of natural intelligence, like robots in movies, this term refers merely to software algorithms being able to learn -- becoming more adept at performing one particular task the more data it is exposed to. Psychologists generally do not characterize human intelligence as a single trait, but rather by a combination of a number of different abilities.
+    
