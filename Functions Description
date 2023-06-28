@@ -1,0 +1,21 @@
+This code implements Huffman encoding and decoding for compressing and decompressing data. Huffman coding is a lossless data compression algorithm that assigns variable-length codes to different characters based on their frequencies in the input data.
+
+The code provides a menu-based interface where you can choose between text compression and file compression. Here's a breakdown of the main components and functions in the code:
+
+- `Node` class: Represents a node in the Huffman tree. Each node has a probability, symbol, left child, right child, and a code.
+
+- `Calculate_Codes` function: Recursively calculates the Huffman codes for each symbol in the Huffman tree.
+
+- `Calculate_Probability` function: Calculates the frequency/probability of each symbol in the input data.
+
+- `Output_Encoded` function: Encodes the input data using the Huffman codes.
+
+- `Total_Gain` function: Calculates the space usage before and after compression and the compression ratio.
+
+- `Huffman_Encoding` function: Implements the Huffman encoding algorithm. It builds the Huffman tree, calculates the codes, and returns the encoded output and the Huffman tree.
+
+- `Huffman_Decoding` function: Implements the Huffman decoding algorithm. It takes the encoded data and the Huffman tree as input and returns the decoded output.
+
+The code also provides a menu-based interface for user interaction. It allows you to input a string or a file, performs Huffman encoding on the data, and displays the encoded output. Additionally, it provides an option to decode the encoded output if desired.
+
+Please let me know if you have any specific questions about the code or if there's anything else I can assist you with!
